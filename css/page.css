@@ -79,8 +79,8 @@ h1
 {
   position: absolute;
   top:50%;
-  width: calc(40% - 100px);
-  padding-left: 100px;
+  width: 32%;
+  padding-left: 8%;
   transform: translateY(-50%);
 }
 
