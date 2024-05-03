@@ -1,11 +1,11 @@
 @font-face {
   font-family: Staatliches;
-  src: url("Staatliches-Regular.ttf");
+  src: url("../font/Staatliches-Regular.ttf");
 }
 
 @font-face {
   font-family: Raleway;
-  src: url("Raleway-Regular.ttf");
+  src: url("../font/Raleway-Regular.ttf");
 }
 
 
