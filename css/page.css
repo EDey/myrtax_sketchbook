@@ -79,20 +79,19 @@ h1
 {
   position: absolute;
   top:50%;
-  width: 32%;
-  padding-left: 8%;
+  width: 24vw;
+  margin-left: 8vw;
   transform: translateY(-50%);
 }
 
 .book {
   position: absolute;
   top: 50%;
-  right: 0;
+  right: 8vw;
   width: 60vw;
   height: calc(60vw * 0.707);
   transition: opacity 0.4s 0.2s;
   transform: translateY(-50%);
-  margin-right: 100px;
 }
 .page {
   float: left;
