@@ -79,6 +79,8 @@ h1
 {
   position: absolute;
   top:50%;
+  font-size: min(90%, 1.5vh);
+  max-width: 35vh;
   width: 24vw;
   margin-left: 8vw;
   transform: translateY(-50%);
