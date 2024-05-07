@@ -1,0 +1,73 @@
+@media screen and (max-width: 600px) {
+  .lateral_bar
+  {
+    position: absolute;
+    top:0;
+    max-width: 100vw;
+    width: 100vw;
+    font-size: 3.5vw;
+    transform: translateY(0);
+    padding: 5vw;
+    margin: 0;
+  }
+
+  .personal_data
+  {
+    display: flex;
+    margin: 0;
+  }
+
+  .button_links
+  {
+    position: absolute;
+    display: flex;
+    right: 7.5%;
+    font-size: 0.60em;
+  }
+
+  .texts
+  {
+    margin-top: 1em;
+  }
+
+  .icon_perfil
+  {
+    width: 35vw;
+    height: 35vw;
+    margin-bottom: 0;
+    margin-right: 5vw;
+  }
+
+  .contact
+  {
+    font-size: 1.3em;
+    margin-bottom: 1.5em;
+  }
+
+  .lateral_bar h1
+  {
+    line-height: 0.85em;
+  }
+
+  .text2
+  {
+    font-size: 0.7em;
+  }
+
+  .button_links span
+  {
+    display: none;
+  }
+
+  .book
+  {
+    position: relative;
+    top: 60vw;
+    left: 50%;
+    right:inherit;
+    width: 95%;
+    height: 80vw;
+    transform: translate(0);
+    transform: translateX(-50%);
+  }
+}
